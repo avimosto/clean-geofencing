@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Clean Geofencing</string>
+
+    <string name="error_insufficient_permissions">Error: insufficient permissions.</string>
+    <string name="error_empty_location">Error: empty location.</string>
+    <string name="error_tracking_location">Error: invalid location.</string>
+    <string name="error_loading_data">Error: loading data.</string>
+    <string name="message_tracking_successful">Starting tracking location</string>
+    <string name="hint_enter_location">Enter location</string>
+    <string name="btn_text_track_location">Track location</string>
+    <string name="btn_text_tracking_history">Tracking History</string>
+
+    <!-- geofencing -->
+    <string name="geofence_not_available">Geofence service is not available now</string>
+    <string name="geofence_too_many_geofences">Your app has registered too many geofences</string>
+    <string name="geofence_too_many_pending_intents">You have provided too many PendingIntents to the addGeofences() call</string>
+    <string name="unknown_geofence_error">Unknown error: the Geofence service is not available now</string>
+    <string name="geofence_transition_invalid_type">Geofence transition error: invalid transition type %1$d</string>
+</resources>
